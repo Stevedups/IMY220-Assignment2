@@ -97,11 +97,7 @@
 										</div>';
 								};
 								echo '</div>';
-							} else {
-								echo '<div class="alert alert-primary mt-3" role="alert">
-										  no uploaded images.
-									  </div>';
-							}
+							} 
 				}
 				else{
 					echo 	'<div class="alert alert-danger mt-3" role="alert">
